@@ -1,0 +1,14 @@
+Walmart Go:
+Name :Sneha
+Cart Summary:
++-----+--------------+----------+
+| No. | Product Name |  Price   |
++-----+--------------+----------+
+|  1  |     Milk     | Rs.60.00 |
+|  2  |    Bread     | Rs.30.00 |
+|  3  |    Tomato    | Rs.50.00 |
++-----+--------------+----------+
+
+Your total is: Rs.140.00
+
+Payment successful! Your change is: Rs.60.00
